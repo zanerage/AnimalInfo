@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimalInfo</string>
+    <string name="deer_live_in_a_variety_of_biomes_ranging_from_tundra_to_the_tropical_rainforest_while_often_associated_with_forests_many_deer_are_ecotone_species_that_live_in_transitional_areas_between_forests_and_thickets_for_cover_and_prairie_and_savanna_open_space_the_majority_of_large_deer_species_inhabit_temperate_mixed_deciduous_forest_mountain_mixed_coniferous_forest_tropical_seasonal_dry_forest_and_savanna_habitats_around_the_world_clearing_open_areas_within_forests_to_some_extent_may_actually_benefit_deer_populations_by_exposing_the_understory_and_allowing_the_types_of_grasses_weeds_and_herbs_to_grow_that_deer_like_to_eat_additionally_access_to_adjacent_croplands_may_also_benefit_deer_however_adequate_forest_or_brush_cover_must_still_be_provided_for_populations_to_grow_and_thrive">Deer live in a variety of biomes, ranging from tundra to the tropical rainforest. While often associated with forests, many deer are ecotone species that live in transitional areas between forests and thickets (for cover) and prairie and savanna (open space). The majority of large deer species inhabit temperate mixed deciduous forest, mountain mixed coniferous forest, tropical seasonal/dry forest, and savanna habitats around the world. Clearing open areas within forests to some extent may actually benefit deer populations by exposing the understory and allowing the types of grasses, weeds, and herbs to grow that deer like to eat. Additionally, access to adjacent croplands may also benefit deer. However, adequate forest or brush cover must still be provided for populations to grow and thrive.</string>
+    <string name="deer">Deer</string>
+    <string name="reptiles">Reptiles</string>
+    <string name="amphibians">Amphibians</string>
+    <string name="fish">Fish</string>
+    <string name="invertebrates">Invertebrates</string>
+    <string name="birds">Birds</string>
+    <string name="mammals">Mammals</string>
+</resources>

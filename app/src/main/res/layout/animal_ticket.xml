@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/background_dark">
+
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/background_dark"
+            android:orientation="vertical">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="292dp"
+                app:srcCompat="@drawable/deer"
+                android:id="@+id/imageView"
+                android:contentDescription="@string/deer_live_in_a_variety_of_biomes_ranging_from_tundra_to_the_tropical_rainforest_while_often_associated_with_forests_many_deer_are_ecotone_species_that_live_in_transitional_areas_between_forests_and_thickets_for_cover_and_prairie_and_savanna_open_space_the_majority_of_large_deer_species_inhabit_temperate_mixed_deciduous_forest_mountain_mixed_coniferous_forest_tropical_seasonal_dry_forest_and_savanna_habitats_around_the_world_clearing_open_areas_within_forests_to_some_extent_may_actually_benefit_deer_populations_by_exposing_the_understory_and_allowing_the_types_of_grasses_weeds_and_herbs_to_grow_that_deer_like_to_eat_additionally_access_to_adjacent_croplands_may_also_benefit_deer_however_adequate_forest_or_brush_cover_must_still_be_provided_for_populations_to_grow_and_thrive"/>
+
+        <TextView
+                android:text="@string/deer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView"
+                android:fontFamily="@font/muli_bold"
+                android:textSize="30sp"
+                android:textColor="@color/zelena"/>
+
+        <TextView
+                android:text="@string/deer_live_in_a_variety_of_biomes_ranging_from_tundra_to_the_tropical_rainforest_while_often_associated_with_forests_many_deer_are_ecotone_species_that_live_in_transitional_areas_between_forests_and_thickets_for_cover_and_prairie_and_savanna_open_space_the_majority_of_large_deer_species_inhabit_temperate_mixed_deciduous_forest_mountain_mixed_coniferous_forest_tropical_seasonal_dry_forest_and_savanna_habitats_around_the_world_clearing_open_areas_within_forests_to_some_extent_may_actually_benefit_deer_populations_by_exposing_the_understory_and_allowing_the_types_of_grasses_weeds_and_herbs_to_grow_that_deer_like_to_eat_additionally_access_to_adjacent_croplands_may_also_benefit_deer_however_adequate_forest_or_brush_cover_must_still_be_provided_for_populations_to_grow_and_thrive"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:fontFamily="@font/muli_bold"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_light"/>
+    </LinearLayout>
+</ScrollView>
